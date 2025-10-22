@@ -44,10 +44,9 @@ PUBLIC_APP_ORIGIN=http://localhost:3000
 - SECRET_JWT_SEED → JWT 토큰 암호화를 위한 비밀 키
 - FRONTEND_URL / PUBLIC_APP_ORIGIN → React 프론트엔드가 실행되는 주소
 ```
-
 ---
 
-##실행 방법
+## 실행 방법
 1) 백엔드 (Node.js 서버)
 cd nodeJs-calendar
 npm install
