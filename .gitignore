@@ -1,0 +1,10 @@
+﻿# 모든 서브폴더 포함 전역 ignore
+**/node_modules/
+**/.env
+**/.DS_Store
+**/.vscode/
+**/.idea/
+**/dist/
+**/build/
+**/logs/
+*.log
